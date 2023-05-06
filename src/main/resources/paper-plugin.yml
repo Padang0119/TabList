@@ -1,0 +1,4 @@
+name: TabList
+version: '${project.version}'
+main: org.tablist.TabList
+api-version: 1.19
